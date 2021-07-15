@@ -1,9 +1,12 @@
 package intrvwbit;
 
+import javax.inject.Singleton;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
+
+@Singleton
 public class BookPageStudentMax {
 //    https://www.interviewbit.com/problems/allocate-books/
 

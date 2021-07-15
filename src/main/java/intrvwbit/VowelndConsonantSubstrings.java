@@ -70,7 +70,7 @@ public class VowelndConsonantSubstrings {
 
 
     public static void main(String[] args) {
-        VowelandConsonantSubstrings ins = new VowelandConsonantSubstrings();
+        VowelndConsonantSubstrings ins = new VowelndConsonantSubstrings();
         System.out.println(ins.subSt("aba"));
     }
 }
