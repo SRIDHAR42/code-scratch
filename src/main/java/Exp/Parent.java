@@ -1,3 +1,5 @@
+package Exp;
+
 public class Parent {
 
     int a;
@@ -14,7 +16,7 @@ public class Parent {
     public void finalize() throws Exception {
         templogger.log(this + " parent class garbage collected ");
     }
-    public static final LogToFileLAVAISHN templogger =  new LogToFileLAVAISHN("Parent",true);
+    public static final LogToFileLAVAISHN templogger =  new LogToFileLAVAISHN("Exp.Parent",true);
 
 
 }

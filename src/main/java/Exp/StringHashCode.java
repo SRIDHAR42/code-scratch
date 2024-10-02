@@ -1,3 +1,5 @@
+package Exp;
+
 public class StringHashCode {
 
     public static void main(String[] args) {
