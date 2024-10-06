@@ -50,4 +50,21 @@ public class TreeSimple {
         }
         return false;
     } // https://leetcode.com/problems/same-tree/
+
+
+    public boolean isBalanced(TreeNode root) {
+        int res = isBalancedInternal(root);
+        return res >= 0;
+    }
+
+    public int isBalancedInternal(TreeNode root) {
+        if (root == null) return 0;
+        int h = 0;
+        int l = isBalancedInternal(root.left);
+        int r = isBalancedInternal(root.right);
+        if (l < 0 || r < 0 || Math.abs(l-r) > 1) {
+            return -1;
+        }
+        return Math.max(l,r) + 1;
+    } // https://leetcode.com/problems/balanced-binary-tree/
 }
