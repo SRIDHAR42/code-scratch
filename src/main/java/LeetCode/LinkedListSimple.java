@@ -12,7 +12,7 @@ package LeetCode;
  * }
  */
 
-public class LinkedListCycle {
+public class LinkedListSimple {
 
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) return false;
@@ -30,4 +30,18 @@ public class LinkedListCycle {
         }
         return false;
     } // https://leetcode.com/problems/linked-list-cycle/
+
+    public ListNode reverseList(ListNode head) {
+        ListNode curr = head, prev = null, temp;
+        while (curr != null) {
+            temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        return prev;
+    }
+
+
+
 }
