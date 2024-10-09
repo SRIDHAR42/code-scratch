@@ -1,11 +1,38 @@
 package LeetCode;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Stack;
+
 public class TreeSimple {
 
     public static void main(String[] args) {
         TreeSimple obj = new TreeSimple();
-        obj.isSubtree(TreeNode.arrayToTree(new Integer[]{3,4,5,1,2}),
-                       TreeNode.arrayToTree(new Integer[]{4,1,2}) );
+        obj.postorderTraversal(TreeNode.arrayToTree(new Integer[]{1,null,2,3}));
+//        obj.isSubtree(TreeNode.arrayToTree(new Integer[]{3,4,5,1,2}),
+//                       TreeNode.arrayToTree(new Integer[]{4,1,2}) );
+    }
+
+    public List<Integer> postorderTraversal(TreeNode root) {
+        ArrayList<Integer> res = new ArrayList<>();
+        if (root == null) return res;
+        Stack<TreeNode> postOrder = new Stack<>();
+        postOrder.add(root);
+        while(!postOrder.isEmpty()) {
+            TreeNode node = postOrder.peek();
+            while (node.left != null) {
+                postOrder.add(node.left);
+                node = node.left;
+            }
+            if (node.right == null) {
+                res.add(node.val);
+                postOrder.pop();
+                System.out.println("adding " + node.val);
+            } else {
+                postOrder.add(node.right);
+            }
+        }
+        return res;
     }
 
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
@@ -67,4 +94,18 @@ public class TreeSimple {
         }
         return Math.max(l,r) + 1;
     } // https://leetcode.com/problems/balanced-binary-tree/
+
+    public List<Integer> preorderTraversal(TreeNode root) {
+        Stack<TreeNode> preOrderList = new Stack<>();
+        List<Integer> res = new ArrayList<>();
+        if (root == null) return res;
+        preOrderList.add(root);
+        while (!preOrderList.isEmpty()) {
+            final TreeNode node = preOrderList.pop();
+            res.add(node.val);
+            if (node.right != null) preOrderList.add(node.right);
+            if (node.left != null) preOrderList.add(node.left);
+        }
+        return res;
+    }
 }
