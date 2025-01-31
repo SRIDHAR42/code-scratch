@@ -7,7 +7,7 @@ public class CoinChange_2 {
         dp[0] = 1;
 
         for (int i = 0; i < coins.length; i++) {
-            for (int j = coins[i]; j  <= amount; j++) {
+            for (int j = coins[i]; j <= amount; j++) {
                 dp[j] = dp[j] + dp[j - coins[i]];
             }
         }
@@ -38,7 +38,7 @@ public class CoinChange_2 {
 
     public static void main(String[] args) {
         CoinChange_2 obj = new CoinChange_2();
-        final int change = obj.change(500, new int[]{3,5,7,8,9,10,11});
+        final int change = obj.change(500, new int[]{3, 5, 7, 8, 9, 10, 11});
         System.out.println("change: " + change);
     }
 
