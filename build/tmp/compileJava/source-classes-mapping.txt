@@ -1,43 +1,24 @@
 intrvwbit/MaxSumContiguousSubarray.java
  intrvwbit.MaxSumContiguousSubarray
-intrvwbit/PeakArray.java
- intrvwbit.PeakArray
-Exp/ThreadLocalTest.java
- Exp.ThreadLocalTest
- Exp.ThreadLocalTest$1
 intrvwbit/Trees/TreeNode.java
  intrvwbit.Trees.TreeNode
-Exp/ExecutorServiceExample.java
- Exp.ExecutorServiceExample
- Exp.ExecutorServiceExample$1
+LeetCode/JumpGame2.java
+ LeetCode.JumpGame2
 LeetCode/TreeNode.java
  LeetCode.TreeNode
-intrvwbit/RemoveElementfromArray.java
- intrvwbit.RemoveElementfromArray
-Exp/Parent.java
- Exp.Parent
 intrvwbit/KthLargest.java
  intrvwbit.KthLargest
-LeetCode/TreeSimple.java
- LeetCode.TreeSimple
-intrvwbit/RainWaterTrapped.java
- intrvwbit.RainWaterTrapped
-intrvwbit/Trees/MakeTree.java
- intrvwbit.Trees.MakeTree
+LeetCode/DiameterBinaryTree.java
+ LeetCode.DiameterBinaryTree
+LeetCode/PathSumTree.java
+ LeetCode.PathSumTree
 intrvwbit/NearestSmallestElement.java
  intrvwbit.NearestSmallestElement
 intrvwbit/Trees/dlt_later/MiscProblem.java
  intrvwbit.Trees.dlt_later.MiscProblem
  intrvwbit.Trees.dlt_later.MiscProblem$TreeNode
-Exp/PrintMap.java
- Exp.PrintMap
 Exp/Misc.java
  Exp.Misc
-LeetCode/medium/TreeLevelOrder.java
- LeetCode.medium.TreeLevelOrder
-intrvwbit/dltlater.java
- intrvwbit.Main
- intrvwbit.dltlater
 LeetCode/MergeTwoSortedList.java
  LeetCode.MergeTwoSortedList
 intrvwbit/Trees/TwoSumBinary.java
@@ -46,56 +27,34 @@ intrvwbit/GLobalDisplay.java
  intrvwbit.GLobalDisplay
 Exp/StringHashCode.java
  Exp.StringHashCode
-intrvwbit/VowelndConsonantSubstrings.java
- intrvwbit.VowelndConsonantSubstrings
-Inheritance/ChildofChild.java
- Inheritance.ChildofChild
-Exp/StringReplace.java
- Exp.StringReplace
-Exp/ThreesumWrong.java
- Exp.ThreesumWrong
 contest/ListNode.java
  contest.ListNode
-LeetCode/InOrderTreeNodeTraversal.java
- LeetCode.InOrderTreeNodeTraversal
+LeetCode/RottingOranges.java
+ LeetCode.RottingOranges
 intrvwbit/RemoveDuplicateSortedArray.java
  intrvwbit.RemoveDuplicateSortedArray
+LeetCode/KthLargest.java
+ LeetCode.KthLargest
 LeetCode/TreeLowestCommonAncestor.java
  LeetCode.TreeLowestCommonAncestor
 intrvwbit/AddOneToNumber.java
  intrvwbit.AddOneToNumber
-intrvwbit/NonRepeatingCharacters.java
- intrvwbit.NonRepeatingCharacters
+LeetCode/ThreeSum.java
+ LeetCode.ThreeSum
 Exp/LogToFileLAVAISHN.java
  Exp.LogToFileLAVAISHN
-LeetCode/AddBinaryNumbers.java
- LeetCode.AddBinaryNumbers
 LeetCode/ValidateBSTTree.java
  LeetCode.ValidateBSTTree
-Exp/ProtectedA.java
- Exp.ProtectedA
-intrvwbit/BookPageStudentMax.java
- intrvwbit.BookPageStudentMax
-Exp/Person.java
- Exp.Person
+LeetCode/MaxProfitStock.java
+ LeetCode.MaxProfitStock
 Inheritance/Child1.java
  Inheritance.Child1
-intrvwbit/MinStack.java
- intrvwbit.MinStack
-intrvwbit/PalindromeInteger.java
- intrvwbit.PalindromeInteger
-LeetCode/ValidAnagram.java
- LeetCode.ValidAnagram
 intrvwbit/ExcelColumnNumber.java
  intrvwbit.ExcelColumnNumber
-LeetCode/KthSmallestElementInBST.java
- LeetCode.KthSmallestElementInBST
-intrvwbit/Trees/KthSmallest.java
- intrvwbit.Trees.KthSmallest
- intrvwbit.Trees.KthSmallest$1
-Exp/ThreadLocalExample.java
- Exp.ThreadLocalExample
- Exp.ThreadLocalExample$1
+LeetCode/HappyNumber.java
+ LeetCode.HappyNumber
+LeetCode/GenerateParentheses.java
+ LeetCode.GenerateParentheses
 Exp/Threaddemo.java
  Exp.Threaddemo
  Exp.Threaddemo$1
@@ -105,18 +64,14 @@ Exp/StackTrace.java
  Exp.StackTrace
 intrvwbit/RemoveConsecutiveChar.java
  intrvwbit.RemoveConsecutiveChar
-intrvwbit/Diffk.java
- intrvwbit.Diffk
 intrvwbit/ExcelColumnNameToNumber.java
  intrvwbit.ExcelColumnNameToNumber
 intrvwbit/FindNthFibonacci.java
  intrvwbit.FindNthFibonacci
-intrvwbit/PascalKth.java
- intrvwbit.PascalKth
+LeetCode/GoodNode.java
+ LeetCode.GoodNode
 Exp/Conc.java
  Exp.Conc
-intrvwbit/TwoPtr/PalindromeString.java
- intrvwbit.TwoPtr.PalindromeString
 Exp/Plot2d.java
  Exp.Plot2d
  Exp.Plot2d$1
@@ -126,34 +81,141 @@ intrvwbit/SpiralArray.java
  intrvwbit.SpiralArray
 LeetCode/PlusOne.java
  LeetCode.PlusOne
-LeetCode/RemoveElement.java
- LeetCode.RemoveElement
-intrvwbit/MergeTwoSortedLists.java
- intrvwbit.MergeTwoSortedLists
 contest/LinkList.java
  contest.LinkList
+LeetCode/TempDltLater.java
+ LeetCode.TempDltLater
 intrvwbit/Candy.java
  intrvwbit.Candy
-Exp/ProB.java
- Exp.ProB
+LeetCode/ValidSudoku.java
+ LeetCode.ValidSudoku
 LeetCode/LongestCommonPrefix.java
  LeetCode.LongestCommonPrefix
 intrvwbit/TempDltLater.java
  intrvwbit.TempDltLater
-intrvwbit/compareversion.java
- intrvwbit.compareversion
+LeetCode/LinkedListSimple.java
+ LeetCode.LinkedListSimple
 intrvwbit/LongestCommonPrefix.java
  intrvwbit.LongestCommonPrefix
-Inheritance/Parent.java
- Inheritance.Parent
 contest/QueenPair.java
  contest.QueenPair
 Exp/ThreesumRight.java
  Exp.ThreesumRight
  Exp.ThreesumRight$1
-LeetCode/ValidSudoku.java
- LeetCode.ValidSudoku
-LeetCode/ContainerWithMostWater.java
- LeetCode.ContainerWithMostWater
+Exp/ProB.java
+ Exp.ProB
+intrvwbit/PeakArray.java
+ intrvwbit.PeakArray
+Exp/ThreadLocalTest.java
+ Exp.ThreadLocalTest
+ Exp.ThreadLocalTest$1
+Exp/ExecutorServiceExample.java
+ Exp.ExecutorServiceExample
+ Exp.ExecutorServiceExample$1
+LeetCode/CountCompleteTreeNodes.java
+ LeetCode.CountCompleteTreeNodes
+LeetCode/Permutations.java
+ LeetCode.Permutations
+intrvwbit/RemoveElementfromArray.java
+ intrvwbit.RemoveElementfromArray
+Exp/Parent.java
+ Exp.Parent
+LeetCode/TreeSimple.java
+ LeetCode.TreeSimple
+LeetCode/LetterCombinationsPhoneNumber.java
+ LeetCode.LetterCombinationsPhoneNumber
+LeetCode/ListNode.java
+ LeetCode.ListNode
+intrvwbit/RainWaterTrapped.java
+ intrvwbit.RainWaterTrapped
+intrvwbit/Trees/MakeTree.java
+ intrvwbit.Trees.MakeTree
+LeetCode/BinarySearchRotatedArray.java
+ LeetCode.BinarySearchRotatedArray
+Exp/PrintMap.java
+ Exp.PrintMap
+LeetCode/medium/TreeLevelOrder.java
+ LeetCode.medium.TreeLevelOrder
+intrvwbit/dltlater.java
+ intrvwbit.Main
+ intrvwbit.dltlater
+intrvwbit/VowelndConsonantSubstrings.java
+ intrvwbit.VowelndConsonantSubstrings
+LeetCode/CoinChange_2.java
+ LeetCode.CoinChange_2
+Inheritance/ChildofChild.java
+ Inheritance.ChildofChild
+Exp/StringReplace.java
+ Exp.StringReplace
+Exp/ThreesumWrong.java
+ Exp.ThreesumWrong
 LeetCode/SortedArrayToBST.java
  LeetCode.SortedArrayToBST
+Inheritance/Parent.java
+ Inheritance.Parent
+LeetCode/InOrderTreeNodeTraversal.java
+ LeetCode.InOrderTreeNodeTraversal
+intrvwbit/NonRepeatingCharacters.java
+ intrvwbit.NonRepeatingCharacters
+LeetCode/AddBinaryNumbers.java
+ LeetCode.AddBinaryNumbers
+Exp/ProtectedA.java
+ Exp.ProtectedA
+intrvwbit/BookPageStudentMax.java
+ intrvwbit.BookPageStudentMax
+Exp/Person.java
+ Exp.Person
+intrvwbit/MinStack.java
+ intrvwbit.MinStack
+intrvwbit/PalindromeInteger.java
+ intrvwbit.PalindromeInteger
+LeetCode/ValidAnagram.java
+ LeetCode.ValidAnagram
+LeetCode/MissingNumber.java
+ LeetCode.MissingNumber
+LeetCode/KthSmallestElementInBST.java
+ LeetCode.KthSmallestElementInBST
+intrvwbit/Trees/KthSmallest.java
+ intrvwbit.Trees.KthSmallest
+ intrvwbit.Trees.KthSmallest$1
+LeetCode/ContainerWithMostWater.java
+ LeetCode.ContainerWithMostWater
+Exp/ThreadLocalExample.java
+ Exp.ThreadLocalExample
+ Exp.ThreadLocalExample$1
+LeetCode/ReverseBits.java
+ LeetCode.ReverseBits
+intrvwbit/Diffk.java
+ intrvwbit.Diffk
+LeetCode/LastStoneWeight.java
+ LeetCode.LastStoneWeight
+intrvwbit/PascalKth.java
+ intrvwbit.PascalKth
+intrvwbit/TwoPtr/PalindromeString.java
+ intrvwbit.TwoPtr.PalindromeString
+LeetCode/LengthOfLongestSubstring.java
+ LeetCode.LengthOfLongestSubstring
+LeetCode/CountingBits.java
+ LeetCode.CountingBits
+LeetCode/RemoveElement.java
+ LeetCode.RemoveElement
+intrvwbit/MergeTwoSortedLists.java
+ intrvwbit.MergeTwoSortedLists
+LeetCode/PermutationInString.java
+ LeetCode.PermutationInString
+LeetCode/CombinationSum.java
+ LeetCode.CombinationSum
+intrvwbit/compareversion.java
+ intrvwbit.compareversion
+LeetCode/MinCostClimbingStr.java
+ LeetCode.MinCostClimbingStr
+LeetCode/SpiralMatrix.java
+ LeetCode.SpiralMatrix
+LeetCode/MergeIntervals.java
+ LeetCode.MergeIntervals
+LeetCode/MergeTriplets.java
+ LeetCode.MergeTriplets
+LeetCode/MaxProductSubArray.java
+ LeetCode.MaxProductSubArray
+LeetCode/MakingALargeIsland.java
+ LeetCode.MakingALargeIsland
