@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32117497-d1e7-408c-bbc9-bb2554327dac" name="Default Changelist" comment="added new problem solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/TempDltLater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/easy/SpecialArray1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LeetCode/TreeSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/LeetCode/TreeSimple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+    <list default="true" id="32117497-d1e7-408c-bbc9-bb2554327dac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/SortedArrayToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/TreeSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/TreeSimple.java" afterDir="false" />
     </list>
     <list id="7ed9b73d-5b6f-41dd-a35a-c39f55e8bdc5" name="not" comment="not">
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
@@ -61,19 +57,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="main" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="from15thJuly" />
@@ -96,9 +79,6 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1t4j8MA64jc7KJUkRa0gtgsvgDY" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -119,9 +99,9 @@
       <recent name="intrvwbit.Trees.dlt_later" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MakingALargeIsland">
-    <configuration name="MakingALargeIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.MakingALargeIsland" />
+  <component name="RunManager" selected="Application.SortedArrayToBST">
+    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ContainerWithMostWater" />
       <module name="code-scratch.main" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProductSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.MaxProductSubArray" />
+    <configuration name="ListRemoveNthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ListRemoveNthFromEnd" />
       <module name="code-scratch.main" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.MergeIntervals" />
+    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.SortedArrayToBST" />
       <module name="code-scratch.main" />
       <extension name="coverage">
         <pattern>
@@ -159,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.MergeTriplets" />
+    <configuration name="TreeLowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TreeLowestCommonAncestor" />
       <module name="code-scratch.main" />
       <extension name="coverage">
         <pattern>
@@ -172,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.SpiralMatrix" />
+    <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ValidSudoku" />
       <module name="code-scratch.main" />
       <extension name="coverage">
         <pattern>
@@ -187,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MakingALargeIsland" />
-        <item itemvalue="Application.MaxProductSubArray" />
-        <item itemvalue="Application.MergeTriplets" />
-        <item itemvalue="Application.MergeIntervals" />
-        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.SortedArrayToBST" />
+        <item itemvalue="Application.ContainerWithMostWater" />
+        <item itemvalue="Application.ValidSudoku" />
+        <item itemvalue="Application.ListRemoveNthFromEnd" />
+        <item itemvalue="Application.TreeLowestCommonAncestor" />
       </list>
     </recent_temporary>
   </component>
@@ -282,91 +262,7 @@
       <option name="project" value="LOCAL" />
       <updated>1728139185077</updated>
     </task>
-    <task id="LOCAL-00012" summary="added new problem solution">
-      <created>1728233205654</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1728233205654</updated>
-    </task>
-    <task id="LOCAL-00013" summary="added new problem solution">
-      <created>1728497129786</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1728497129786</updated>
-    </task>
-    <task id="LOCAL-00014" summary="added new problem solution">
-      <created>1728503742402</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1728503742402</updated>
-    </task>
-    <task id="LOCAL-00015" summary="added new problem solution">
-      <created>1734333042926</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1734333042926</updated>
-    </task>
-    <task id="LOCAL-00016" summary="update readme">
-      <created>1734336458694</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1734336458694</updated>
-    </task>
-    <task id="LOCAL-00017" summary="added new problem solution">
-      <created>1736427836992</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1736427836992</updated>
-    </task>
-    <task id="LOCAL-00018" summary="added new problem solution">
-      <created>1736430859605</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1736430859605</updated>
-    </task>
-    <task id="LOCAL-00019" summary="added new problem solution">
-      <created>1736621551872</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1736621551872</updated>
-    </task>
-    <task id="LOCAL-00020" summary="added new problem solution">
-      <created>1736879132919</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1736879132919</updated>
-    </task>
-    <task id="LOCAL-00021" summary="added new problem solution">
-      <created>1737013496979</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1737013496979</updated>
-    </task>
-    <task id="LOCAL-00022" summary="added new problem solution">
-      <created>1737057911053</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1737057911053</updated>
-    </task>
-    <task id="LOCAL-00023" summary="added new problem solution">
-      <created>1738343078750</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1738343078750</updated>
-    </task>
-    <option name="localTasksCounter" value="24" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -393,9 +289,7 @@
     <MESSAGE value="4 oct 2024" />
     <MESSAGE value="new problem solutions" />
     <MESSAGE value="update" />
-    <MESSAGE value="update readme" />
-    <MESSAGE value="added new problem solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new problem solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -554,161 +448,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode/SortedArrayToBST.java</url>
           <line>11</line>
           <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/TreeSimple.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/TreeSimple.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/KthLargest.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/MissingNumber.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/MissingNumber.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/CountingBits.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/ReverseBits.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/CombinationSum.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/CombinationSum.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/CombinationSum.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/CombinationSum.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/CombinationSum.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/CombinationSum.java</url>
-          <line>93</line>
-          <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/RottingOranges.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/RottingOranges.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/RottingOranges.java</url>
-          <line>120</line>
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/RottingOranges.java</url>
-          <line>125</line>
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/RottingOranges.java</url>
-          <line>124</line>
-          <option name="timeStamp" value="111" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/JumpGame2.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/JumpGame2.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/JumpGame2.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/JumpGame2.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Permutations.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Permutations.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="122" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Permutations.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="123" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/PermutationInString.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/SpiralMatrix.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/SpiralMatrix.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/SpiralMatrix.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/MergeTriplets.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="142" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/MaxProductSubArray.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="143" />
         </line-breakpoint>
         <breakpoint type="java-exception">
           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
