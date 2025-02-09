@@ -33,4 +33,8 @@ public class BinaryTreeMaxPathSum {
         this.res = Math.max(this.res, curr);
         return root.val + side;
     }
+
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
